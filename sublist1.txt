@@ -3,3 +3,8 @@ vless://4e125438-1a39-440e-95fc-36b9dec03e5f@zula.ir:443?type=ws&host=adderall.s
 vless://1b7110d8-26c7-420e-98c9-6bf82012bb73@zula.ir:443?type=ws&host=baguette.baghalipolo.us.kg&path=/random&security=tls&fp=chrome&sni=baguette.baghalipolo.us.kg&alpn=http/1.1,h2&allowInsecure=false#baguette-w
 vless://88e472e8-d49f-4824-a30b-8f3382b81386@zula.ir:443?type=ws&host=ritalin.adaspolo.us.kg&path=/random&security=tls&fp=chrome&sni=ritalin.adaspolo.us.kg&alpn=h2,http/1.1&allowInsecure=false#ritalin-w
 vless://8bcec3e3-50cf-43b5-9a67-305f72aa4d61@zula.ir:443?type=ws&host=rita.adaspolo.us.kg&path=/random&security=tls&fp=chrome&sni=rita.adaspolo.us.kg&alpn=h2,http/1.1&allowInsecure=false#rita-w
+vless://59b3242f-6e1b-45f7-a57d-183192cc87fe@www.speedtest.net:443?type=ws&host=avid.baghalipolo.us.kg&path=/random&security=tls&fp=chrome&sni=avid.baghalipolo.us.kg&alpn=h2,http/1.1&allowInsecure=false#avid-w2
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@www.speedtest.net:443?type=ws&host=adderall.sabzipolo.us.kg&path=/random&security=tls&fp=chrome&sni=adderall.sabzipolo.us.kg&alpn=h2,http/1.1&allowInsecure=false#adderall-w2
+vless://1b7110d8-26c7-420e-98c9-6bf82012bb73@www.speedtest.net:443?type=ws&host=baguette.baghalipolo.us.kg&path=/random&security=tls&fp=chrome&sni=baguette.baghalipolo.us.kg&alpn=http/1.1,h2&allowInsecure=false#baguette-w2
+vless://88e472e8-d49f-4824-a30b-8f3382b81386@www.speedtest.net:443?type=ws&host=ritalin.adaspolo.us.kg&path=/random&security=tls&fp=chrome&sni=ritalin.adaspolo.us.kg&alpn=h2,http/1.1&allowInsecure=false#ritalin-w2
+vless://8bcec3e3-50cf-43b5-9a67-305f72aa4d61@www.speedtest.net:443?type=ws&host=rita.adaspolo.us.kg&path=/random&security=tls&fp=chrome&sni=rita.adaspolo.us.kg&alpn=h2,http/1.1&allowInsecure=false#rita-w2
