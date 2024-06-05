@@ -1,0 +1,1 @@
+vless://8bcec3e3-50cf-43b5-9a67-305f72aa4d61@www.speedtest.net:443?type=ws&path=%2Fmci-cafebazaar-nokia-digikala-p30download-myket&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=linkedin.adaspolo1.xyz&host=linkedin.adaspolo1.xyz&allowInsecure=fals#rita-w3
