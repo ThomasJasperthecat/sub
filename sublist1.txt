@@ -1,3 +1,4 @@
+vless://36b000c5-1e99-439c-8152-1e77530a171e@live.wkrq.com:443?type=ws&host=peacefulpigs.ir&path=/downloader?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#focalin-y2
 vless://ec2682b0-25c7-4973-8945-ae8154ac88fd@live.wkrq.com:443?type=ws&host=emofid.com&path=/ws?ed%3D2048&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#ritalin-y2
 vless://50bdcd85-5bc8-4381-9ec7-19f66cdbd23a@live.wkrq.com:443?type=ws&host=eitaa.com&path=/ws?ed%3D2048&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#vyas-y2
 vless://d92948c1-e51f-45c3-a4b3-55f8d5049316@live.wkrq.com:443?type=ws&host=wikifegh.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#jittery-y2
