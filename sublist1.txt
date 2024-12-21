@@ -1,7 +1,7 @@
 vless://36b000c5-1e99-439c-8152-1e77530a171e@live.wkrq.com:443?type=ws&host=peacefulpigs.ir&path=/downloader?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#focalin-y2
 vless://ec2682b0-25c7-4973-8945-ae8154ac88fd@live.wkrq.com:443?type=ws&host=emofid.com&path=/ws?ed%3D2048&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#ritalin-y2
 vless://50bdcd85-5bc8-4381-9ec7-19f66cdbd23a@live.wkrq.com:443?type=ws&host=eitaa.com&path=/ws?ed%3D2048&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#vyas-y2
-vless://eecf218f-895a-428b-938d-981f63392e4b@live.wkrq.com:443?type=ws&path=%2Fdownloader%3Fed%3D2560&host=safebirds.ir&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false&core=xray#safebirds-y2
+vless://14b3cd15-207c-4456-b75b-5c9bb1a3f7fa@live.wkrq.com:443?type=ws&path=%2Fdownloader%3Fed%3D2560&host=safebirds.ir&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false&core=xray#safebirds-y2
 vless://d92948c1-e51f-45c3-a4b3-55f8d5049316@live.wkrq.com:443?type=ws&host=wikifegh.ir&path=/ws?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#jittery-y2
 vless://df9488dd-9089-40fb-a278-4e297d3b5fe9@live.wkrq.com:443?type=ws&host=yektanet.com&path=/ws?ed%3D2048&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=false#baguette-y2
 vmess://eyJhZGQiOiJsaXZlLndrcnEuY29tIiwiaWQiOiI2ZjQ2MGY5My0zMzdhLTQ5YzgtYjZkOC1jOWJlNGNiYzVhMTMiLCJuZXQiOiJ3cyIsInNuaSI6ImxpdmUud2tycS5jb20iLCJhbHBuIjoiaDIiLCJwb3J0IjoiNDQzIiwiaG9zdCI6Im5hbW5ha3QuY29tIiwic2N5IjoiYXV0byIsInBhdGgiOiJcL3dzP2VkPTI1NjAiLCJwcyI6ImFkZGVyYWxsLXkyIiwiZnAiOiJjaHJvbWUiLCJ0bHMiOiJ0bHMifQ==
