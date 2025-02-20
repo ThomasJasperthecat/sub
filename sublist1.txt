@@ -1,4 +1,4 @@
-vless://53751728-d808-4450-8795-a8ee76e730bc@direct.gorbe.store:443?type=tcp&security=reality&pbk=ZSf5PlHqUprd4fzJ6pmn4dzwKPXlcbw30gxycpK_sCw&fp=chrome&sni=direct.gorbe.store&sid=36e605ce89&spx=%2Fwww&flow=xtls-rprx-vision#germany-c
+vless://53751728-d808-4450-8795-a8ee76e730bc@direct.gorbe.store:443?type=tcp&security=reality&pbk=ZSf5PlHqUprd4fzJ6pmn4dzwKPXlcbw30gxycpK_sCw&fp=chrome&sni=direct.gorbe.store&sid=36e605ce89&spx=%2Fwww&flow=xtls-rprx-vision#germany-r
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@zula.ir:443?type=ws&path=%2Frandom&host=adderall.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=adderall.adaspoloandco.com#adderall-c
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@zula.ir:8443?type=ws&path=%2Fdownloader&host=matoride.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=matoride.adaspoloandco.com#matoride-c
 vless://904cdf83-1b0c-4cd5-a0c1-6690c1ee6219@zula.ir:2087?type=ws&path=%2Fdownloader&host=rita.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=rita.adaspoloandco.com#vyas-c
