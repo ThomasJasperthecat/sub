@@ -1,3 +1,10 @@
+vless://76a92580-9a5c-49c4-97f3-f899b2e91850@151.101.63.5:443?type=ws&host=khomeini.net&path=/downloader?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=1#focalin-y4
+vless://1539922a-6e03-485e-8d19-080eae721b5e@151.101.63.3:443?type=ws&host=timee.ir&path=/jafar&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2&allowInsecure=1#adderall-y4
+vless://0880d1c2-1ad8-401e-b920-e8140cc977ca@151.101.63.4:443?type=ws&host=p30.ir&path=/uplo&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2&allowInsecure=1#matoride-y4
+vless://5e6c1bf3-658f-44aa-bc24-a7c4a229381b@151.101.63.8:443?type=ws&host=soft96.ir&path=/uplo&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2&allowInsecure=1#vyas-y4
+vless://14290bfb-8168-43c2-9b49-46a377362c89@151.101.63.7:443?type=ws&host=nobiitex.ir&path=/uplo&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2&allowInsecure=1#ritalin-y4
+vless://76a92580-9a5c-49c4-97f3-f899b2e91850@151.101.63.5:443?type=ws&host=khomeini.net&path=/downloader?ed%3D2560&security=tls&fp=chrome&sni=live.wkrq.com&alpn=h2&allowInsecure=1#focalin-y4
+vless://de878e02-e260-480f-8985-eadf27c167e2@151.101.63.2:443?type=ws&host=aaut.ac.ir&path=/uplo&security=tls&fp=firefox&sni=live.wkrq.com&alpn=h2&allowInsecure=1#jittery-y4
 vless://30254c31-8e12-4943-b6cb-0ca037ef6f47@zula.ir:2087?type=ws&path=%2Frandom&host=peacefulpigs.adaspoloandco.com&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=peacefulpigs.adaspoloandco.com#focalin-germany-c
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@zula.ir:443?type=ws&path=%2Frandom&host=adderall.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=adderall.adaspoloandco.com#adderall-germany-c
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@zula.ir:8443?type=ws&path=%2Fdownloader&host=matoride.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=matoride.adaspoloandco.com#matoride-germany-c
