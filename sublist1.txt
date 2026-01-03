@@ -15,3 +15,4 @@ vless://d2b0e347-554f-47af-9ff9-fac57c050c8d@104.21.43.168:8443?type=ws&host=add
 vless://fcc3d83c-dffc-45f9-bdb6-1354068bd0db@104.21.43.168:2096?type=ws&host=matoride.psnapptapsi.ir&path=/uploader?ed%3D2560&security=tls&fp=chrome&sni=matoride.psnapptapsi.ir&alpn=h2&allowInsecure=false#matoride-backup
 vless://e59edba0-9aa2-4950-9230-15ea598408e8@104.21.43.168:8443?type=ws&host=amphetamine.psnapptapsi.ir&path=/test?ed%3D2560&security=tls&fp=chrome&sni=amphetamine.psnapptapsi.ir&alpn=h3,h2,http/1.1&allowInsecure=false#amphetamine-backup
 vless://3feade45-1605-486c-a750-4fb9cb115068@104.21.43.168:8443?type=ws&path=%2Fdownloader.php&host=windy.psnapptapsi.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=windy.psnapptapsi.ir&allowInsecure=false#windy-backup
+vmess://eyJwcyI6IndpbmR5LTIiLCJwb3J0IjoiMjA4MyIsImFkZCI6Ijg3LjI0OC4xNDIuMjMiLCJpZCI6IjE2YjZmMTNkLWI3Y2MtNDU2My05Yjg2LWM2MWY2YjZmMzRhOCIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8ifQ==
