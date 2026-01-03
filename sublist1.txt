@@ -17,3 +17,4 @@ vless://e59edba0-9aa2-4950-9230-15ea598408e8@104.21.43.168:8443?type=ws&host=amp
 vless://3feade45-1605-486c-a750-4fb9cb115068@104.21.43.168:8443?type=ws&path=%2Fdownloader.php&host=windy.psnapptapsi.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=windy.psnapptapsi.ir&allowInsecure=false#windy-backup
 vmess://eyJzY3kiOiJhdXRvIiwicG9ydCI6IjIwODIiLCJwcyI6ImFkZGVyYWxsLTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDgzODhiM2QtNTk0YS00OGNhLWI0YWQtYWYyMGE4YWExZGE1IiwidGxzIjoibm9uZSIsImFkZCI6Ijg3LjI0OC4xNDIuMjMiLCJuZXQiOiJ0Y3AifQ==
 vmess://eyJwcyI6IndpbmR5LTIiLCJwb3J0IjoiMjA4MyIsImFkZCI6Ijg3LjI0OC4xNDIuMjMiLCJpZCI6IjE2YjZmMTNkLWI3Y2MtNDU2My05Yjg2LWM2MWY2YjZmMzRhOCIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8ifQ==
+vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@104.21.43.168:8443?type=ws&encryption=none&path=%2Fuploader.php&host=maple.adaspoloandco.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=maple.adaspoloandco.com&allowInsecure=false#maple-canada-c
