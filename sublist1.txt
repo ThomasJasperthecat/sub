@@ -21,3 +21,4 @@ vmess://eyJwcyI6IndpbmR5LTIiLCJ0bHMiOiJub25lIiwiYWRkIjoiODcuMjQ4LjE0Mi4yMyIsInR5
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJvbWlkLWxpbWl0ZWQiLAogICJhZGQiOiAiMi4xNDQuMi42MyIsCiAgInBvcnQiOiAyMDk1LAogICJpZCI6ICJkNDAxMWY1ZS1iMGZiLTQxODMtYmExMC1hZWNjYTJhYWVmMDciLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ==
 vless://36ded8c6-a02a-43e5-b033-1fd67f5e3577@188.0.247.28:2093?encryption=none&type=tcp&headerType=http&host=Soft98.ir&path=/&security=none#G-fcafjwxw
 vless://8b367af7-6831-4743-968d-7a1cc1f7cfa5@188.0.247.28:2083?encryption=none&type=tcp&headerType=http&host=Soft98.ir&path=/&security=none#F-s12iyhkc
+vless://b684f7a1-0012-4613-88d5-d63baeddb23f@93.123.85.126:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ocsp.apple.com&pbk=oq23MEfZDZ-L_Z5GtpPS_M_wv7GRWbackZA2SJ69sxw&sid=ffaa8030cea6ea0b#signal-germany-r
